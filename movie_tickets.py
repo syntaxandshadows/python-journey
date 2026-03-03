@@ -5,7 +5,7 @@ age = int(input("How old are you? "))
 
 if age < 13:
     price = 8
-elif age >= 13 and < 64:
+elif age <= 64:
     price = 12
 else:
     price = 10
