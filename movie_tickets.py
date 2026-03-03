@@ -1,3 +1,8 @@
+name = input("Whats your name? ")
+movie = input("Whats the movies name? ")
+age = int(input("How old are you? "))
+
+
 if age < 13:
     price = 8
 elif age >= 13 and < 64:
@@ -5,8 +10,5 @@ elif age >= 13 and < 64:
 else:
     price = 10
 
-name = input("Whats your name? ")
-movie = input("Whats the movies name? ")
-age = int(input("How old are you? "))
 
-print(f"Hi {name}, your ticket for {movie} will cost ${price}."
+print(f"Ticket for {movie} confirmed. That will be ${price}. Enjoy!")
