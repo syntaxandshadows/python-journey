@@ -10,3 +10,8 @@ Welcome to my repository! I am learning Python from scratch and building a portf
 ### 2. Security Gate (`security_gate.py`)
 * **Concept:** User Input, Variables, Math, and F-Strings.
 * **What it does:** Asks the user for personal details and tells user if they are old enough to enter.
+
+### 3. Movie Ticket Pricer (`movie_tickets.py`)
+* **Concept:** User Input, Variables, Math, and F-Strings.
+* **What it does:** Asks the user for personal details and tells user the price of their movie ticket.
+
