@@ -8,3 +8,5 @@ else:
 name = input("Whats your name? ")
 movie = input("Whats the movies name? ")
 age = int(input("How old are you? "))
+
+print(f"Hi {name}, your ticket for {movie} will cost ${price}."
