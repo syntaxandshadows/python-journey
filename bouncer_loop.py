@@ -1,6 +1,6 @@
 active = True
 
-while active == True: # This means "Loop forever"
+while active == True: # This means "Loop forever" 
   name = input("What's your name? (or type 'quit'): ")
 
 if name == "quit":
